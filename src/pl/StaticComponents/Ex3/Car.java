@@ -26,9 +26,9 @@ public class Car {
     }
 
     public void setFuel(int fuel) {
-        if (fuel <= 0)
+        if (fuel <= 0) {
             engineOn = false;
-        this.fuel = fuel;
+        } this.fuel = fuel;
     }
 
     public boolean isEngineOk() {
@@ -36,8 +36,8 @@ public class Car {
     }
 
     public void setEngineOk(boolean engineOk) {
-        if (!engineOk)
-            engineOn = false;
+        if (!engineOk) {
+        } engineOn = false;
         this.engineOk = engineOk;
     }
 
@@ -47,10 +47,11 @@ public class Car {
 
     public void setEngineOn(boolean engineOn) {
         int systemCheck = systemCheck();
-        if (systemCheck == ERROR_CHECK_ENGINE || systemCheck == ERROR_NO_FUEL)
+        if (systemCheck == ERROR_CHECK_ENGINE || systemCheck == ERROR_NO_FUEL) {
             this.engineOn = false;
-        else
+        } else {
             this.engineOn = engineOn;
+        }
     }
 
     public boolean isFuelFlapOpen() {
