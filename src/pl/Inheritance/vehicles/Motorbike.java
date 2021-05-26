@@ -1,6 +1,6 @@
-package pl.Inheritance;
+package pl.Inheritance.vehicles;
 
-public class Motorbike extends WheeledVehicle{
+public class Motorbike extends WheeledVehicle {
     private String startType;
 
     public String getStartType() {

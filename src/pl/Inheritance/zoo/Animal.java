@@ -1,4 +1,4 @@
-package pl.Inheritance;
+package pl.Inheritance.zoo;
 
 public class Animal {
     private String color;

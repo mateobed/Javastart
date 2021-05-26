@@ -1,6 +1,8 @@
-package pl.Inheritance;
+package pl.Inheritance.vehicles;
 
-public class Boat extends Vehicle{
+import pl.Inheritance.vehicles.Vehicle;
+
+public class Boat extends Vehicle {
     private double displacement;
 
     public double getDisplacement() {

@@ -1,4 +1,4 @@
-package pl.Inheritance;
+package pl.Inheritance.zoo;
 
 public class Zoo {
     public static void main(String[] args) {
@@ -12,6 +12,8 @@ public class Zoo {
 
         System.out.println("Ptak wydaje głos: ");
         bird1.makeSound();
+
+
 
     }
 }

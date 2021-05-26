@@ -1,6 +1,6 @@
-package pl.Inheritance;
+package pl.Inheritance.vehicles;
 
-public class Car extends WheeledVehicle{
+public class Car extends WheeledVehicle {
     private int doors;
 
     public int getDoors() {

@@ -1,4 +1,6 @@
-package pl.Inheritance;
+package pl.Inheritance.vehicles;
+
+import pl.Inheritance.vehicles.Engine;
 
 public class Vehicle {
     private Engine engine;

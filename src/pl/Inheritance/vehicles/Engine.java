@@ -1,4 +1,4 @@
-package pl.Inheritance;
+package pl.Inheritance.vehicles;
 
 public class Engine {
     private int power;
