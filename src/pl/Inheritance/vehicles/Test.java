@@ -10,6 +10,9 @@ public class Test {
 
         Boat boat1 = new Boat();
         boat1.setFuel(4);
+        System.out.println("Wyporność: " + boat1.getDisplacement() + " , poziom paliwa: " + boat1.getFuel());
+
+        car1.printInfo();
 
 
 

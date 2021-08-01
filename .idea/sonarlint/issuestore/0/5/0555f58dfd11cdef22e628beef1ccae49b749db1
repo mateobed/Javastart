@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬€Ó‹ùÿÿÿÿ
+^
+java:S2259"CA "NullPointerException" could be thrown; "game2" is nullable here.(»Ì«¾øÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Ð¹êž
+E
+java:S6212	"/Declare this local variable with "var" instead.(óçäµ
+J
+java:S6212"/Declare this local variable with "var" instead.(™§³²ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©”¶ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©»ˆ—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»Ì«¾øÿÿÿÿ

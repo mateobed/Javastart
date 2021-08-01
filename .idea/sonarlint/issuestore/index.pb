@@ -1,0 +1,41 @@
+
+T
+$src/pl/KlasyObiekty/Ex1/Company.java,2\1\21df3be31e2ba7e02e24f7a13f3e42c86cc22c31
+Q
+!src/pl/KlasyObiekty/Ex2/Game.java,c\a\ca1a0a345e28ae0f8a59faeb04f67faf1e3e01d5
+Y
+)src/pl/KlasyObiekty/Ex2/GameMagazine.java,0\5\0555f58dfd11cdef22e628beef1ccae49b749db1
+L
+src/pl/KlasyObiekty/Car.java,3\8\3871afb23864afedaabaf3137e65b2f2ed04f6d2
+P
+ src/pl/KlasyObiekty/CarShop.java,9\2\92caf0ca861232c081459301d1936b5a921a62d6
+S
+#src/pl/KlasyObiekty/Ex3/Garden.java,6\8\68eb4a86944047154b93a789a4810eba1c2490ca
+I
+src/pl/Loops/ForLoop.java,9\8\98ef3e47e7944e6faecc7519b1f3a96455ab875d
+R
+"src/pl/KlasyObiekty/Ex3/Plant.java,3\9\39d34a171d559e201ca41d1d86927d9d2d25ecca
+J
+src/pl/Loops/ForLoop2.java,a\9\a9e5faaebd9293d14fc9f1fd7d0938d0d353f607
+J
+src/pl/Loops/ForLoop3.java,e\5\e58022d39c0e693b0535cd7783c41540b5fe76fd
+U
+%src/pl/KlasyObiekty/Ex1/Employee.java,4\8\485c0de1c8649640eeeb0d42e79c84d9d6b5e662
+T
+$src/pl/Inheritance/vehicles/Car.java,b\4\b4c3a759daad0e69eae706d83dda05bda7ac4ab8
+X
+(src/pl/Inheritance/vehicles/Vehicle.java,5\9\592a4ed11952268939cdea094e53e89866e20c74
+U
+%src/pl/Inheritance/vehicles/Boat.java,2\7\2721ec90feb3eafc3446baccd1eb1bca4dabd0b4
+O
+src/pl/Inheritance/zoo/Zoo.java,7\3\7382209e2efcfc3e565193425f9dc434a19faf55
+P
+ src/pl/Inheritance/zoo/Bird.java,0\1\01dad820b6c4c3591584efd8a6e289414c89eaf0
+O
+src/pl/Inheritance/zoo/Cat.java,2\a\2a4734c4b7031537a43512579f1b367e49945000
+R
+"src/pl/Inheritance/zoo/Animal.java,2\6\26f3fcbd0ce10f3cb5a1b4637e75eab37263e541
+O
+src/pl/Inheritance/b/Child.java,c\3\c3a5a3117653b35c54b95a74a2a7987e4fd5696b
+P
+ src/pl/Inheritance/a/Parent.java,3\3\33c69d37cf5c8683b9779bca778e25569c7c2191

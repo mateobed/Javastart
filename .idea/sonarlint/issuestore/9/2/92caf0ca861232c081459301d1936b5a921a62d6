@@ -1,0 +1,17 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Czarny" 3 times.(ööû½
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§¹¿üÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ç¿Êüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÖ¥ßùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(–’…Õşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğºñãşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†’©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÕÙŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š¨£õ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(™ƒ¢ó
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(†™ñøÿÿÿÿ
